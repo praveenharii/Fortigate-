@@ -1,4 +1,4 @@
-# FortiGate — Port Forwarding Port 1433 (SQL Server)
+# FortiGate
 
 ## Overview
 
